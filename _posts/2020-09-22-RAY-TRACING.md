@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "RAY TRACING"
 date: 2020-09-22
 categories: CG
