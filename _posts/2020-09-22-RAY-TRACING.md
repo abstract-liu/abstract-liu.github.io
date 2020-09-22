@@ -1,6 +1,8 @@
 ---
-layout: post
-title: Ray Tracing 
+layout: page
+title: "RAY TRACING"
+date: 2020-09-22
+categories: CG
 ---
 
 ## 1G.Ray Casting
