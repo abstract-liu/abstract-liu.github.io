@@ -1,3 +1,8 @@
+---
+layout: post
+title: Ray Tracing 
+---
+
 ## 1G.Ray Casting
 The main idea is to cast lots of rays from eye throw pixels and intersect with objects. Because it just renderes direct illumination, we have to judge if this intersection point is able to connect light source. And then perform shading calculation to compute color of pixel.
 
