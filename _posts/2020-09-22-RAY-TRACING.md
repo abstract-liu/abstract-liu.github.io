@@ -14,10 +14,10 @@ The main idea is to recursively reflect rays. But it only consider three cases: 
 ### Intersection
 
 Ray Equation:
-r(t) = o + td 0<=t<infinity
+$r(t) = o + td 0<=t<infinity$
 
 Intersection with sphere
-(p -c)^2 - R^2 = 0
+$(p -c)^2 - R^2 = 0$
 
 Intersection with triangle mesh
 Plane equation:
