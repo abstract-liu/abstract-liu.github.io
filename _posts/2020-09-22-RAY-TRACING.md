@@ -19,6 +19,9 @@ $r(t) = o + td 0<=t<infinity$
 Intersection with sphere
 $(p -c)^2 - R^2 = 0$
 
+I like kun and xiangzhi .
+I like kun very much, though he is my senior collegue.
+
 Intersection with triangle mesh
 Plane equation:
 (p - p^') N = 0
